@@ -41,8 +41,6 @@ ai-job-assistant/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/ai-job-assistant.git
-cd ai-job-assistant
 
 2️⃣ Create a virtual environment
 python -m venv venv
