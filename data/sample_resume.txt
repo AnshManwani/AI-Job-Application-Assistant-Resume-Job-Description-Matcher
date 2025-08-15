@@ -1,0 +1,9 @@
+Ansh
+Email: ansh@gmail.com | GitHub: github.com/yourname
+
+Experience:
+- Built ML pipelines with Python, pandas, and scikit-learn to classify text.
+- Fine-tuned Transformer models (HuggingFace) for sentiment analysis.
+- Deployed Flask APIs on AWS EC2 with Docker.
+
+Skills: Python, pandas, numpy, scikit-learn, PyTorch, NLP, Docker, AWS, Git

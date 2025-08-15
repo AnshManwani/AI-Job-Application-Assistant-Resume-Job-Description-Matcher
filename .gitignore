@@ -1,0 +1,108 @@
+# ====================
+# Python Virtual Envs
+# ====================
+venv/
+env/
+global_venv/
+
+# ====================
+# Python Bytecode
+# ====================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ====================
+# Jupyter Notebook Checkpoints
+# ====================
+.ipynb_checkpoints/
+
+# ====================
+# Environment Variables
+# ====================
+.env
+*.env
+
+# ====================
+# System Files (Windows/Mac/Linux)
+# ====================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# ====================
+# VS Code
+# ====================
+.vscode/
+
+# ====================
+# PyCharm
+# ====================
+.idea/
+*.iml
+
+# ====================
+# Logs and crash dumps
+# ====================
+*.log
+*.out
+*.bak
+
+# ====================
+# pytest, coverage and testing tools
+# ====================
+.pytest_cache/
+coverage.*
+.cache
+nosetests.xml
+*.cover
+*.py,cover
+htmlcov/
+
+# ====================
+# IPython/Jupyter history & profile
+# ====================
+ipython_config.py
+*.sqlite
+
+# ====================
+# MyPy type checker
+# ====================
+.mypy_cache/
+
+# ====================
+# Pylint, Bandit, other tools
+# ====================
+.pylint.d/
+.bandit/
+
+# ====================
+# Build artifacts
+# ====================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ====================
+# Machine Learning Model Files
+# ====================
+*.pkl
+*.joblib
+*.h5
+*.sav
+house_price_model.pkl
+
+
+# ====================
+# Flask/Streamlit Cache
+# ====================
+instance/
+.streamlit/
+
+service_account.json
+service_account.json.json
+ngrok.exe
+

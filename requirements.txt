@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+nltk
+pymupdf
+python-docx
+groq
+python-dotenv
+sqlalchemy

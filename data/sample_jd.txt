@@ -1,0 +1,5 @@
+We are hiring a Machine Learning Engineer to build NLP systems.
+Requirements:
+- Python, scikit-learn, and either PyTorch or TensorFlow
+- Experience with Transformers, Docker, and AWS
+- Strong communication and collaboration
